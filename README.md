@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/ce71f2a6-94b9-450e-9b76-9f2cb59a6152" height=65>
+
 # Reproducibility Challenges in Korean Archaeology
 
 ## Author
