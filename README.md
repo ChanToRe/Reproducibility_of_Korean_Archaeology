@@ -1,11 +1,11 @@
-# Scientific Methodologies and Reproducibility Challenges in Korean Archaeology
+# Reproducibility Challenges in Korean Archaeology
 
 ## Author
-- Ju, Chanhyeok(Department of History, Soongsil University)
+- Ju, Chanhyeok(Researcher, Seoul National Research Institute of Cultural Heritage)
 
 ## Information
-This repository organizes the data, graphs, and code utilized in the study by **Ju Chanhyeok, 2025, Scientific Methodologies and Reproducibility Challenges in Korean Archaeology, *Journal of Central Institute of Cultural Heritage* 47.** You can access the paper at the link below.
-<br>[Link](https://opentutorials.org/module/782/6083)
+This repository organizes the data, graphs, and code utilized in the study by **Ju Chanhyeok, 2025, Reproducibility Challenges in Korean Archaeology, *崇實史學* 54.** You can access the paper at the link below.
+<br>[Link]([https://opentutorials.org/module/782/6083](http://www.sshistory.or.kr/index.html))
 
 The repository is structured into three main directories:
 - `Data` : Contains various datasets used in the study.
