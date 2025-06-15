@@ -21,4 +21,4 @@ ggplot(data) +
       axis.title.x = element_text(size=12, colour="black", face='bold'),
       axis.title.y = element_text(size=12, colour="black", face='bold'))
 
-ggsave(here("./Graph/Fig_02.tiff"), dpi=300, width=6, height=6, units='in')
+ggsave(here("./Graph/Fig_2.tiff"), dpi=300, width=6, height=6, units='in')

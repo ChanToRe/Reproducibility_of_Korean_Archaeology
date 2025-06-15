@@ -20,13 +20,12 @@ Reproducibility_of_Korean_Archaeology
 ┣ Data
  ┃ ┗ Reproducibility_of_Korean_Archaeology.csv
  ┣ Graph
- ┃ ┣ Fig_00.tiff
- ┃ ┣ Fig_01.tiff
- ┃ ┗ Fig_02.tiff
+ ┃ ┣ Fig_1-1.tiff
+ ┃ ┣ Fig_1-2.tiff
+ ┃ ┗ Fig_2.tiff
  ┣ Script
- ┃ ┣ Phase_Classification.R
- ┃ ┣ Yearly_Phase_change(ratio).R
- ┃ ┗ Yearly_Research_Num.R
+ ┃ ┣ Phase_Classification(Fig_1-2).R
+ ┃ ┣ Yearly_Phase_change(ratio)(Fig_2).R
+ ┃ ┗ Yearly_Research_Num(Fig_1-1).R
  ┗ README.md
 ```
-## Library version
