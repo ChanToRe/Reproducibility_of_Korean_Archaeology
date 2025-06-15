@@ -7,7 +7,7 @@
 
 ## Information
 This repository organizes the data, graphs, and code utilized in the study by **Ju Chanhyeok, 2025, Reproducibility Challenges in Korean Archaeology, *崇實史學* 54.** You can access the paper at the link below.
-<br>[Link]([https://opentutorials.org/module/782/6083](http://www.sshistory.or.kr/index.html))
+<br>[Link](http://www.sshistory.or.kr/index.html)
 
 The repository is structured into three main directories:
 - `Data` : Contains various datasets used in the study.
